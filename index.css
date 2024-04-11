@@ -9,9 +9,7 @@ ul {
     list-style-type: none;
     align-items: center;
     padding: 16px;
-}
-.oi  {
-   color: yellow;
+
 }
 a {
     color: white;
@@ -37,3 +35,5 @@ nav a:hover {
 a:hover {
     color:rgb(0, 66, 55);
 }
+.oi  {
+   color: yellow;
